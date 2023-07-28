@@ -43,3 +43,7 @@ def test(x):
 
 def hello():
     return "world"
+
+
+def world():
+    return "Hello"
